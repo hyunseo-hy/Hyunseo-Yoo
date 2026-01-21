@@ -1,2 +1,2 @@
 # Hyunseo-Yoo
-Self-Introduction
+Hello Github. My name is Hyunseo Yoo, studying Financial Engineering.
